@@ -84,3 +84,36 @@ Windows exe file for normal installation. Download page link for windows [Click 
 ## Installation on mac
 
 For reference [Click here](https://git-scm.com/download/mac)
+
+# Setting your Git username for every repository on your computer
+<hl>
+Open Git Bash.
+Set a Git username:
+
+```
+git config --global user.name "user name"
+```
+Enter your name in place of user name.
+
+Confirm that you have set the Git username correctly:
+```
+git config --global user.name
+```
+>user name
+Inplace of user name you will see your name
+
+# Setting your email address for every repository on your computer
+<hl>
+Open Git Bash.
+Set an email address in Git. You can use your GitHub-provided noreply email address or any email address.
+
+```
+git config --global user.email "email@example.com"
+```
+Confirm that you have set the email address correctly in Git:
+
+```
+git config --global user.email 
+```
+>email@example.com
+
