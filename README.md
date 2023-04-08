@@ -80,3 +80,7 @@ winget install --id Git.Git -e --source winget
 ```
 
 Windows exe file for normal installation. Download page link for windows [Click here](https://git-scm.com/download/win)
+
+## Installation on mac
+
+For reference [Click here](https://git-scm.com/download/mac)
